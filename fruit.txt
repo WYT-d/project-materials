@@ -1,2 +1,2 @@
-香蕉
-苹果
+香蕉  banana
+苹果  apple
