@@ -1,0 +1,2 @@
+.env  //env文件就不会被给git管理
+node_modules/  //node_modules文件夹就不会被git管理 应为这个里面都是第三方依赖包，git管理没有必要，别人如果要用直接在电脑上下载就好了
